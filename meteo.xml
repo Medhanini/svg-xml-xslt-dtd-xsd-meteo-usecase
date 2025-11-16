@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "meteo.dtd">
+<meteo>
+    <mesure date="2024-11-11">
+        <ville nom="Casablanca" temperature="22"/>
+        <ville nom="Mohammedia" temperature="33"/>
+        <ville nom="Marrakech" temperature="40"/>
+        <ville nom="Essaouira" temperature="22"/>
+    </mesure>
+</meteo>
