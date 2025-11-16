@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE meteo SYSTEM "meteo.dtd">
 <meteo>
-    <mesure date="2024-11-11">
+    <mesure date="2024-03-03">
         <ville nom="Casablanca" temperature="22"/>
         <ville nom="Mohammedia" temperature="33"/>
         <ville nom="Marrakech" temperature="40"/>
-        <ville nom="Essaouira" temperature="22"/>
+        <ville nom="Essaouira" temperature="18"/>
+        <ville nom="Rabat" temperature="27"/>
+        <ville nom="Safi" temperature="30"/>
+    </mesure>
+    <mesure date="2024-02-02">
+        <ville nom="Casablanca" temperature="25"/>
+        <ville nom="Mohammedia" temperature="25"/>
+        <ville nom="Marrakech" temperature="23"/>
+        <ville nom="Essaouira" temperature="45"/>
+        <ville nom="Rabat" temperature="56"/>
+        <ville nom="Safi" temperature="32"/>
     </mesure>
 </meteo>
